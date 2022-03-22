@@ -60,8 +60,9 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Georgia
+    text: Roboto
     code: Roboto Mono
+
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
