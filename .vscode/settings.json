@@ -1,5 +1,7 @@
 {
     "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
     "files.associations": {
         ".remarkrc": "json"
     },
@@ -19,6 +21,7 @@
         "mkdocs",
         "nbsp",
         "noopener",
+        "pnpm",
         "progressbar",
         "pymdownx",
         "Roboto",
